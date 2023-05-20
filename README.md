@@ -41,7 +41,7 @@
     <a href="https://github.com/Chanda1629/Charge-Edu-Tech-Website"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Chanda1629/Charge-Edu-Tech-Website">View Demo</a>
+    <a href="https://chanda1629.github.io/Charge-Edu-Tech-Website/">View Demo</a>
     ·
     <a href="https://github.com/Chanda1629/Charge-Edu-Tech-Website/issues">Report Bug</a>
     ·
