@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Chanda1629/Charge-Edu-Tech-Website">
-    <img src="./assets/img/Screenshot.png" alt="Logo" width="80" height="80">
+    <img src="./assets/img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Charge Edu-Tech Website</h3>
@@ -83,9 +83,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](./assets/img/Screenshot.png)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Chanda1629`, `Charge-Edu-Tech-Website`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `Charge Edu-Tech Website`, `A Landing page website made using Tailwind CSS`
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
